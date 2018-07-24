@@ -1,0 +1,11 @@
+C:\Users\Jecnal\Desktop\Revature\First C#\bin\MCD\Debug\netcoreapp2.1\First C#.deps.json
+C:\Users\Jecnal\Desktop\Revature\First C#\bin\MCD\Debug\netcoreapp2.1\First C#.runtimeconfig.json
+C:\Users\Jecnal\Desktop\Revature\First C#\bin\MCD\Debug\netcoreapp2.1\First C#.runtimeconfig.dev.json
+C:\Users\Jecnal\Desktop\Revature\First C#\bin\MCD\Debug\netcoreapp2.1\First C#.dll
+C:\Users\Jecnal\Desktop\Revature\First C#\bin\MCD\Debug\netcoreapp2.1\First C#.pdb
+C:\Users\Jecnal\Desktop\Revature\First C#\obj\MCD\Debug\netcoreapp2.1\First C#.csprojAssemblyReference.cache
+C:\Users\Jecnal\Desktop\Revature\First C#\obj\MCD\Debug\netcoreapp2.1\First C#.csproj.CoreCompileInputs.cache
+C:\Users\Jecnal\Desktop\Revature\First C#\obj\MCD\Debug\netcoreapp2.1\First C#.AssemblyInfoInputs.cache
+C:\Users\Jecnal\Desktop\Revature\First C#\obj\MCD\Debug\netcoreapp2.1\First C#.AssemblyInfo.cs
+C:\Users\Jecnal\Desktop\Revature\First C#\obj\MCD\Debug\netcoreapp2.1\First C#.dll
+C:\Users\Jecnal\Desktop\Revature\First C#\obj\MCD\Debug\netcoreapp2.1\First C#.pdb
